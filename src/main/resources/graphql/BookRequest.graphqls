@@ -1,0 +1,6 @@
+input BookRequest{
+    title : String
+    publisher :String
+    price : Int
+    resume :String
+}

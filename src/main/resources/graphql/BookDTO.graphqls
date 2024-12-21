@@ -1,0 +1,6 @@
+type BookDTO{
+    title : String
+    publisher :String
+    price : Int
+    resume :String
+}
